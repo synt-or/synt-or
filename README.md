@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @synt-or
+- 🌱 I’m currently learning Rust
